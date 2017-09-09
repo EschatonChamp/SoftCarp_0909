@@ -5,5 +5,7 @@ SWC repo for HLT BLP human words Linguistics
 1. Bash lessons learned
 2. Github
 3. Atmosphere Cloud computing
-  -Atmo is great!
+ 
+ 
+ -Atmo is great!
 4. Python and Jupyter notebooks
